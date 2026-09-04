@@ -1,0 +1,6 @@
+{
+  "name": "Garv Shaw Portfolio",
+  "description": "Futuristic 3D portfolio website for Garv Shaw, a B.Tech Computer Science student passionate about AI, Cloud Computing, and Web Development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
